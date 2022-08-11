@@ -1,4 +1,4 @@
-# Data-visualization-with-Pandas Customer Segmentation
+#Customer Segmentation
 
 
 In the world of data science it is often not necessary to develop complex algorithms and create machine learning models to make predictions in market segmentation to understand customer behavior.
